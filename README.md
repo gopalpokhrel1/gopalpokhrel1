@@ -1,4 +1,4 @@
-![logo](https://github.com/gopalpokhrel1/gopalpokhrel1/blob/main/bg%20(2).png)
+![logo](https://github.com/gopalpokhrel1/gopalpokhrel1/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Gopal Pokhrel</h1>
 <h3 align="center">Frontend developer</h3>
